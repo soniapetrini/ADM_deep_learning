@@ -1,3 +1,3 @@
-# ADM_deep_learning
-
-link to overleaf: https://www.overleaf.com/project/6294c4991c140e28c85b91b1
+# Deep Learning for Image Classification
+Project for Algorithms for Massive Data course (UNIMI). 
+Data available at: https://www.kaggle.com/datasets/defileroff/comic-faces-paired-synthetic-v2
